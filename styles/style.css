@@ -7,9 +7,10 @@ body {
     height: 160px;
     background-color: deepskyblue;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 20px;
+
+    align-items: left;
+    justify-content: left;
+    border-radius: 30px;
 }
 
 .main-block-message {
