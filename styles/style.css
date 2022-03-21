@@ -7,8 +7,8 @@ body {
     height: 150px;
     background-color: deepskyblue;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
     border-radius: 30px;
 }
 
